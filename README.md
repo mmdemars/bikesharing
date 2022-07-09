@@ -3,7 +3,7 @@
 
 
 ## Overview 
-Bike sharing in the city of New York has been a profitable venture that could be duplicated in other cities. This analysis has been provided as a baseline for the creation of a similiar bike-sharing business in Des Moines, with a something something something...
+Bike sharing in the city of New York has been a profitable venture that could be duplicated in other cities. This analysis has been provided as a baseline for the creation of a similiar bike-sharing business in Des Moines.
 
 ## Results: 
 Using the visualizations you have in your Tableau Story, describe the results of each visualization underneath the image.
@@ -27,12 +27,11 @@ Most subscribers are male. Male and female users have the highest bike usage on 
 Top starting and ending locations could indicate a need ot transfer bikes between loction during non peak hours to ensure bikes are available for all potential riders.
 
 ![IMAGE DESCRIPTION](https://github.com/mmdemars/bikesharing/blob/main/08bikerepairs.png?raw=true)
-A smaller proportion of bikes are more heavily used, indicating something about epairs being done in off hours.
+A smaller proportion of bikes are more heavily used, indicating that repairs will only need to be done on a smaller portion of the fleet at a time.
 
 ## Summary: 
-Highest bike sharing happened Monday through Friday from 7 to 19 am, and 5 to 7pm, indicating that most bike sharing is being used to convey to and from work. A significantly larger proportion of the bike share users identified as male. Most ride were under 10 minutes in length. 
+Highest bike sharing happened Monday through Friday from 7 to 19 am, and 5 to 7pm, indicating that most bike sharing is being used to convey to and from work. A significantly larger proportion of the bike share users identified as male. Most ride were under 10 minutes in length. This may indicate that initial placement of bicycles within a 5-10 minute biking range of major employment hubs in residential areas would be advanageous. Additionally helpful visualizations may include:
 
-8 checkout itmes by day of the week.
-Start/End station locations sorted by Gender
-Start/End  station locations by time of day.
+- Start/End station locations sorted by Gender
+- Start/End  station locations by time of day.
 
